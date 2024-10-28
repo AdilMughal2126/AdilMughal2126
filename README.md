@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdilMughal2126
-- 👀 I’m interested in MERN stack developement
-- 🌱 I’m currently learning design and analysis of algorithms
+- 👀 I’m working as a full-stack developer
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 you can reach me through my twitter or using my email : mughaladil571@gmail.com
 
