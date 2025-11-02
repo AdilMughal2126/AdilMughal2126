@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdilMughal2126
 - 👀 I’m working as a full-stack developer
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 you can reach me through my twitter or using my email : mughaladil571@gmail.com
 
 <!---
 AdilMughal2126/AdilMughal2126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
